@@ -1,4 +1,11 @@
-- clear answers
-- short answers
-- no hallucination
-- correct refusals
+Check every response for:
+
+[ ] clear and easy to understand
+[ ] short and concise
+[ ] bullet points used
+[ ] no hallucination
+[ ] no guessing
+[ ] says "I don't know" when unsure
+[ ] professional tone
+[ ] correct refusal for unrelated questions
+

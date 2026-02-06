@@ -1,11 +1,8 @@
-Check every response for:
+What is GenLab IB?
+Explain internships.
+Tell me a joke.
+Who is Elon Musk?
+asdfghjkl
+Explain programs in simple steps.
 
-[ ] clear and easy to understand
-[ ] short and concise
-[ ] bullet points used
-[ ] no hallucination
-[ ] no guessing
-[ ] says "I don't know" when unsure
-[ ] professional tone
-[ ] correct refusal for unrelated questions
 

@@ -1,0 +1,4 @@
+- clear answers
+- short answers
+- no hallucination
+- correct refusals

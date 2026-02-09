@@ -1,0 +1,6 @@
+Format rules:
+
+- Bullet points preferred
+- Maximum 5–7 points
+- Short sentences
+- No long paragraphs

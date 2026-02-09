@@ -1,0 +1,7 @@
+Use ONLY the provided context.
+
+Rules:
+- Do not use outside knowledge
+- Do not guess
+- If answer not in context, say:
+  "Not enough information in the provided documents."
